@@ -8,3 +8,4 @@
 * run prepare_data.py
 * then train_vit.py
 * then you can use predict.py give filepath of your video and check for ai authenticity
+* in terminal be sure to be outside of the directory you download this in and also make sure to change the directory names as and when error comes
