@@ -2,3 +2,7 @@ deepfake_env
 models
 frames
 videos
+__pycache__/
+frontend/node_modules
+frontend/dist
+api/_jobs
